@@ -24,7 +24,7 @@ test('Höhe: Satz mit "Zusätzlich" bekommt den Satz davor', () => {
 })
 
 test('Höhe: Listenstriche werden zu Kommas', () => {
-  assert.equal(hoeheAusText('Der Zuschuss beträgt 50 Prozent, jedoch - beim Gutschein A höchstens EUR 7.500, - beim Gutschein B höchstens EUR 20.000.'), 'Der Zuschuss beträgt 50 Prozent, jedoch, beim Gutschein A höchstens EUR 7.500, beim Gutschein B höchstens EUR 20.000.')
+  assert.equal(hoeheAusText('Der Zuschuss beträgt 50 Prozent, jedoch - beim Gutschein A höchstens EUR 7.500, - beim Gutschein B höchstens EUR 20.000.'), 'Der Zuschuss beträgt 50 Prozent, jedoch: beim Gutschein A höchstens EUR 7.500, beim Gutschein B höchstens EUR 20.000.')
 })
 
 test('Antrag vor Projektbeginn nur bei ausdrücklicher Angabe', () => {

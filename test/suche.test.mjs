@@ -57,3 +57,16 @@ test('Blättern und Gesamtzahl', () => {
 test('unbekannte ID liefert null', () => {
   assert.equal(programm('gibt/es/nicht'), null)
 })
+
+test('Komposita werden in bekannte Grundwörter zerlegt', async () => {
+  const { zerlege, verarbeiteBegriff } = await import('../lib/suche.mjs')
+  assert.deepEqual(verarbeiteBegriff('Unternehmensnachfolge'), ['unternehmensnachfolg', 'nachfolg'])
+  assert.deepEqual(verarbeiteBegriff('Investitionszuschuss'), ['investitionszuschuss', 'zuschuss', 'investition'])
+  assert.equal(verarbeiteBegriff('angemessen'), 'angemess')
+  assert.deepEqual(zerlege('nachfolg'), [])
+  const { suche: s } = erstelleSuche([
+    ...programme,
+    { id: 'Bund/n', titel: 'ERP-Förderkredit Gründung und Nachfolge', ebene: 'Bund', foerdergebiet: ['bundesweit'], foerderart: ['Darlehen'], foerderberechtigte: ['Unternehmen'], kurztext: '', veroeffentlicht: '2024-01-01' },
+  ])
+  assert.ok(s({ suchbegriffe: 'Unternehmensnachfolge' }).treffer.some((t) => t.id === 'Bund/n'))
+})
