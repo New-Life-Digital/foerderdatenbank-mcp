@@ -61,6 +61,8 @@ GET /api/suche?q=Digitalisierung&bundesland=Baden-Württemberg&foerderart=Zuschu
 GET /api/filter
 ```
 
+Jeder Treffer enthält einen `steckbrief`: `hoehe` (der Satz aus dem Programmtext, der die Förderhöhe nennt, wörtlich übernommen), `vorBeginn` (true, wenn der Text ausdrücklich verlangt, den Antrag vor Projektbeginn zu stellen), `frist` und `kontakt` (Name, Telefon, Website der Förderstelle).
+
 ## Daten und Lizenz
 
 Die Daten stammen aus der Förderdatenbank des Bundes, Bundesministerium für Wirtschaft und Energie (BMWE), und stehen unter **CC BY 4.0**. Details, Änderungen und die Bestätigung der Redaktion stehen in [DATENLIZENZ.md](DATENLIZENZ.md). Jede Antwort des Servers enthält Quelle, Lizenz und Datenstand.
