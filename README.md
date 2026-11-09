@@ -24,7 +24,7 @@ claude mcp add --transport http foerderdatenbank https://foerder.newlifedigital.
 **Lokal** (Node.js 22 oder neuer):
 
 ```bash
-git clone https://github.com/Gusdl/foerderdatenbank-mcp.git
+git clone https://github.com/New-Life-Digital/foerderdatenbank-mcp.git
 cd foerderdatenbank-mcp
 npm install
 ```

@@ -5,6 +5,14 @@
   "type": "module",
   "license": "MIT",
   "author": "New Life Digital UG (haftungsbeschränkt) (https://www.newlifedigital.de)",
+  "homepage": "https://newlifedigital.de/foerder-check/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/New-Life-Digital/foerderdatenbank-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/New-Life-Digital/foerderdatenbank-mcp/issues"
+  },
   "keywords": [
     "mcp",
     "model-context-protocol",

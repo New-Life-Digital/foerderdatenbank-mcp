@@ -9,5 +9,5 @@
     }
   },
   "rewrites": [{ "source": "/mcp", "destination": "/api/mcp" }],
-  "redirects": [{ "source": "/", "destination": "https://www.newlifedigital.de/foerder-check", "permanent": false }]
+  "redirects": [{ "source": "/", "destination": "https://newlifedigital.de/foerder-check/", "permanent": false }]
 }
