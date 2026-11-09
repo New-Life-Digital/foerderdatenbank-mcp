@@ -1,0 +1,1 @@
+Informationen des Bundesministeriums für Wirtschaft und Energie (BMWE), der Geschäftsstelle Markterschließung für KMU bei Germany Trade & Invest und des Bundesamts für Wirtschaft und Ausfuhrkontrolle (BAFA), Stand Juli 2026

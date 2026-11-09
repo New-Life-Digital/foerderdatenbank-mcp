@@ -1,0 +1,13 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "regions": ["fra1"],
+  "functions": {
+    "api/*.mjs": {
+      "includeFiles": "daten/**",
+      "memory": 1024,
+      "maxDuration": 15
+    }
+  },
+  "rewrites": [{ "source": "/mcp", "destination": "/api/mcp" }],
+  "redirects": [{ "source": "/", "destination": "https://www.newlifedigital.de/foerder-check", "permanent": false }]
+}

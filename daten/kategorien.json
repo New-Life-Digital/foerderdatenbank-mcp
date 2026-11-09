@@ -1,0 +1,718 @@
+{
+  "foerderart": [
+    {
+      "wert": "Zuschuss",
+      "anzahl": 2045
+    },
+    {
+      "wert": "Darlehen",
+      "anzahl": 338
+    },
+    {
+      "wert": "Bürgschaft",
+      "anzahl": 89
+    },
+    {
+      "wert": "Beteiligung",
+      "anzahl": 83
+    },
+    {
+      "wert": "Garantie",
+      "anzahl": 28
+    },
+    {
+      "wert": "Sonstige",
+      "anzahl": 14
+    }
+  ],
+  "foerdergebiet": [
+    {
+      "wert": "bundesweit",
+      "anzahl": 704
+    },
+    {
+      "wert": "Sachsen",
+      "anzahl": 169
+    },
+    {
+      "wert": "Nordrhein-Westfalen",
+      "anzahl": 164
+    },
+    {
+      "wert": "Schleswig-Holstein",
+      "anzahl": 152
+    },
+    {
+      "wert": "Bayern",
+      "anzahl": 145
+    },
+    {
+      "wert": "Niedersachsen",
+      "anzahl": 138
+    },
+    {
+      "wert": "Hessen",
+      "anzahl": 133
+    },
+    {
+      "wert": "Baden-Württemberg",
+      "anzahl": 124
+    },
+    {
+      "wert": "Sachsen-Anhalt",
+      "anzahl": 118
+    },
+    {
+      "wert": "Thüringen",
+      "anzahl": 108
+    },
+    {
+      "wert": "Hamburg",
+      "anzahl": 95
+    },
+    {
+      "wert": "Berlin",
+      "anzahl": 92
+    },
+    {
+      "wert": "Rheinland-Pfalz",
+      "anzahl": 90
+    },
+    {
+      "wert": "Mecklenburg-Vorpommern",
+      "anzahl": 87
+    },
+    {
+      "wert": "Brandenburg",
+      "anzahl": 82
+    },
+    {
+      "wert": "Saarland",
+      "anzahl": 68
+    },
+    {
+      "wert": "Bremen",
+      "anzahl": 41
+    },
+    {
+      "wert": "Sonstige",
+      "anzahl": 10
+    }
+  ],
+  "foerdergeber": [
+    {
+      "wert": "Land",
+      "anzahl": 1741
+    },
+    {
+      "wert": "Bund",
+      "anzahl": 657
+    },
+    {
+      "wert": "EU",
+      "anzahl": 57
+    }
+  ],
+  "foerderberechtigte": [
+    {
+      "wert": "Unternehmen",
+      "anzahl": 1517
+    },
+    {
+      "wert": "Verband/Vereinigung",
+      "anzahl": 1174
+    },
+    {
+      "wert": "Öffentliche Einrichtung",
+      "anzahl": 895
+    },
+    {
+      "wert": "Kommune",
+      "anzahl": 826
+    },
+    {
+      "wert": "Forschungseinrichtung",
+      "anzahl": 502
+    },
+    {
+      "wert": "Hochschule",
+      "anzahl": 494
+    },
+    {
+      "wert": "Privatperson",
+      "anzahl": 406
+    },
+    {
+      "wert": "Bildungseinrichtung",
+      "anzahl": 317
+    },
+    {
+      "wert": "Existenzgründer/in",
+      "anzahl": 279
+    }
+  ],
+  "foerderbereich": [
+    {
+      "wert": "Infrastruktur",
+      "anzahl": 486
+    },
+    {
+      "wert": "Gesundheit & Soziales",
+      "anzahl": 413
+    },
+    {
+      "wert": "Unternehmensfinanzierung",
+      "anzahl": 409
+    },
+    {
+      "wert": "Forschung & Innovation (themenspezifisch)",
+      "anzahl": 357
+    },
+    {
+      "wert": "Aus- & Weiterbildung",
+      "anzahl": 319
+    },
+    {
+      "wert": "Umwelt- & Naturschutz",
+      "anzahl": 300
+    },
+    {
+      "wert": "Landwirtschaft & Ländliche Entwicklung",
+      "anzahl": 269
+    },
+    {
+      "wert": "Existenzgründung & -festigung",
+      "anzahl": 247
+    },
+    {
+      "wert": "Energieeffizienz & Erneuerbare Energien",
+      "anzahl": 241
+    },
+    {
+      "wert": "Mobilität",
+      "anzahl": 213
+    },
+    {
+      "wert": "Kultur, Medien & Sport",
+      "anzahl": 206
+    },
+    {
+      "wert": "Forschung & Innovation (themenoffen)",
+      "anzahl": 200
+    },
+    {
+      "wert": "Digitalisierung",
+      "anzahl": 177
+    },
+    {
+      "wert": "Wohnungsbau & -modernisierung",
+      "anzahl": 168
+    },
+    {
+      "wert": "Regionalförderung",
+      "anzahl": 167
+    },
+    {
+      "wert": "Arbeit",
+      "anzahl": 135
+    },
+    {
+      "wert": "Smart Cities & Regionen",
+      "anzahl": 131
+    },
+    {
+      "wert": "Beratung",
+      "anzahl": 117
+    },
+    {
+      "wert": "Städtebau & Stadterneuerung",
+      "anzahl": 96
+    },
+    {
+      "wert": "Frauenförderung",
+      "anzahl": 95
+    },
+    {
+      "wert": "Außenwirtschaft",
+      "anzahl": 50
+    },
+    {
+      "wert": "Messen & Ausstellungen",
+      "anzahl": 19
+    },
+    {
+      "wert": "Corona-Hilfe",
+      "anzahl": 2
+    }
+  ],
+  "unternehmensgroesse": [
+    {
+      "wert": "Kleines Unternehmen",
+      "anzahl": 1404
+    },
+    {
+      "wert": "Kleinstunternehmen",
+      "anzahl": 1384
+    },
+    {
+      "wert": "Mittleres Unternehmen",
+      "anzahl": 1365
+    },
+    {
+      "wert": "Großes Unternehmen",
+      "anzahl": 989
+    }
+  ],
+  "branchen": [
+    {
+      "wert": "Dienstleistungen",
+      "anzahl": 967
+    },
+    {
+      "wert": "Produzierendes Gewerbe",
+      "anzahl": 774
+    },
+    {
+      "wert": "Kultur- & Kreativwirtschaft",
+      "anzahl": 623
+    },
+    {
+      "wert": "Handwerk",
+      "anzahl": 590
+    },
+    {
+      "wert": "Handel",
+      "anzahl": 572
+    },
+    {
+      "wert": "Gastgewerbe/Tourismus",
+      "anzahl": 543
+    },
+    {
+      "wert": "Freie Berufe",
+      "anzahl": 476
+    },
+    {
+      "wert": "Land-, Forst- & Fischwirtschaft",
+      "anzahl": 365
+    }
+  ],
+  "unterbereiche": [
+    {
+      "wert": "Betriebliche Investitionen",
+      "anzahl": 339
+    },
+    {
+      "wert": "Betriebsmittel",
+      "anzahl": 181
+    },
+    {
+      "wert": "Öffentliche Infrastruktur",
+      "anzahl": 174
+    },
+    {
+      "wert": "Gründungsinvestitionen",
+      "anzahl": 173
+    },
+    {
+      "wert": "Festigungsinvestitionen",
+      "anzahl": 161
+    },
+    {
+      "wert": "Forschung & Innovation",
+      "anzahl": 145
+    },
+    {
+      "wert": "Verkehr",
+      "anzahl": 144
+    },
+    {
+      "wert": "Betriebliche/private Investitionen",
+      "anzahl": 136
+    },
+    {
+      "wert": "Energie & Umwelt",
+      "anzahl": 134
+    },
+    {
+      "wert": "Kinder, Jugendliche & Familien",
+      "anzahl": 131
+    },
+    {
+      "wert": "Information & Kommunikation",
+      "anzahl": 116
+    },
+    {
+      "wert": "Naturschutz & Landschaftspflege",
+      "anzahl": 113
+    },
+    {
+      "wert": "Beratung & Schulung",
+      "anzahl": 111
+    },
+    {
+      "wert": "Gesundheit & Soziales",
+      "anzahl": 104
+    },
+    {
+      "wert": "Energieeffizienz & Erneuerbare Energien",
+      "anzahl": 96
+    },
+    {
+      "wert": "Ländliche Entwicklung",
+      "anzahl": 93
+    },
+    {
+      "wert": "Modernisierung & Sanierung",
+      "anzahl": 88
+    },
+    {
+      "wert": "Forschung & Entwicklung",
+      "anzahl": 83
+    },
+    {
+      "wert": "Aus- & Weiterbildung",
+      "anzahl": 81
+    },
+    {
+      "wert": "Ausbildungsstrukturen & -träger",
+      "anzahl": 77
+    },
+    {
+      "wert": "Betriebliche Innovationen",
+      "anzahl": 76
+    },
+    {
+      "wert": "Wohnungsbau & Erwerb",
+      "anzahl": 76
+    },
+    {
+      "wert": "Ausbildung besonderer Zielgruppen",
+      "anzahl": 75
+    },
+    {
+      "wert": "Kooperationen & Netzwerke",
+      "anzahl": 70
+    },
+    {
+      "wert": "Städtebau & Stadterneuerung",
+      "anzahl": 70
+    },
+    {
+      "wert": "Umwelt- & Naturschutz",
+      "anzahl": 70
+    },
+    {
+      "wert": "Integration",
+      "anzahl": 69
+    },
+    {
+      "wert": "Weiterbildung von Arbeitnehmern",
+      "anzahl": 69
+    },
+    {
+      "wert": "Kunst & Kultur",
+      "anzahl": 68
+    },
+    {
+      "wert": "Eingliederung besonderer Zielgruppen",
+      "anzahl": 67
+    },
+    {
+      "wert": "Gesundheit",
+      "anzahl": 64
+    },
+    {
+      "wert": "Arbeit, Aus- & Weiterbildung",
+      "anzahl": 63
+    },
+    {
+      "wert": "Einzelbetriebliche Förderung",
+      "anzahl": 62
+    },
+    {
+      "wert": "Gesundheit & Medizin",
+      "anzahl": 61
+    },
+    {
+      "wert": "Bürgerschaftliches Engagement",
+      "anzahl": 60
+    },
+    {
+      "wert": "Soziale Wohnraumförderung",
+      "anzahl": 57
+    },
+    {
+      "wert": "Betriebliche Ausbildung",
+      "anzahl": 56
+    },
+    {
+      "wert": "Gewerbliche Wirtschaft",
+      "anzahl": 55
+    },
+    {
+      "wert": "Konsolidierung & Stabilisierung",
+      "anzahl": 55
+    },
+    {
+      "wert": "Senioren & Pflege",
+      "anzahl": 53
+    },
+    {
+      "wert": "Biowissenschaften",
+      "anzahl": 51
+    },
+    {
+      "wert": "Berufsvorbereitung",
+      "anzahl": 50
+    },
+    {
+      "wert": "Betriebliche Arbeitsplätze",
+      "anzahl": 50
+    },
+    {
+      "wert": "Tourismus",
+      "anzahl": 48
+    },
+    {
+      "wert": "Wohnungsbau & -modernisierung",
+      "anzahl": 48
+    },
+    {
+      "wert": "Behinderte Menschen",
+      "anzahl": 47
+    },
+    {
+      "wert": "Gründung von Technologieunternehmen",
+      "anzahl": 47
+    },
+    {
+      "wert": "Besondere Formen der Landbewirtschaftung",
+      "anzahl": 45
+    },
+    {
+      "wert": "Film & Fernsehen",
+      "anzahl": 43
+    },
+    {
+      "wert": "Nachfolge",
+      "anzahl": 43
+    },
+    {
+      "wert": "Städtebaulicher Denkmalschutz",
+      "anzahl": 43
+    },
+    {
+      "wert": "Mobilität & Verkehr",
+      "anzahl": 40
+    },
+    {
+      "wert": "Land-, Forst- & Fischwirtschaft",
+      "anzahl": 38
+    },
+    {
+      "wert": "Weiterbildung Unternehmer & Selbststaendige",
+      "anzahl": 37
+    },
+    {
+      "wert": "Weiterbildungsstrukturen & -träger",
+      "anzahl": 37
+    },
+    {
+      "wert": "Wirtschafts-, Sozial- & Geisteswissenschaften",
+      "anzahl": 36
+    },
+    {
+      "wert": "Kultur",
+      "anzahl": 35
+    },
+    {
+      "wert": "Sport & Sportstätten",
+      "anzahl": 34
+    },
+    {
+      "wert": "Forstwirtschaft",
+      "anzahl": 32
+    },
+    {
+      "wert": "Außerbetriebliche Ausbildung",
+      "anzahl": 31
+    },
+    {
+      "wert": "Denkmalschutz & -pflege",
+      "anzahl": 31
+    },
+    {
+      "wert": "Existenzgründung & -festigung",
+      "anzahl": 29
+    },
+    {
+      "wert": "Fischwirtschaft",
+      "anzahl": 29
+    },
+    {
+      "wert": "Unternehmensführung",
+      "anzahl": 29
+    },
+    {
+      "wert": "Sanierung & Entwicklung",
+      "anzahl": 28
+    },
+    {
+      "wert": "Soziale Stadt",
+      "anzahl": 25
+    },
+    {
+      "wert": "Weiterbildung von Arbeitssuchenden",
+      "anzahl": 25
+    },
+    {
+      "wert": "Lebensunterhalt & Soziale Sicherung",
+      "anzahl": 24
+    },
+    {
+      "wert": "Produktion & Dienstleistungen",
+      "anzahl": 24
+    },
+    {
+      "wert": "Qualifizierung von Arbeitssuchenden",
+      "anzahl": 24
+    },
+    {
+      "wert": "Stadtumbau",
+      "anzahl": 24
+    },
+    {
+      "wert": "Gründungsstrukturen & -netzwerke",
+      "anzahl": 23
+    },
+    {
+      "wert": "Politische Bildung",
+      "anzahl": 22
+    },
+    {
+      "wert": "Werkstoffe",
+      "anzahl": 22
+    },
+    {
+      "wert": "Aktive Stadt- und Ortsteilzentren",
+      "anzahl": 21
+    },
+    {
+      "wert": "Energetische Sanierung",
+      "anzahl": 21
+    },
+    {
+      "wert": "Existenzgründung & Unternehmensfinanzierung",
+      "anzahl": 21
+    },
+    {
+      "wert": "Marktstrukturverbesserung",
+      "anzahl": 21
+    },
+    {
+      "wert": "Studienförderung",
+      "anzahl": 21
+    },
+    {
+      "wert": "Markterkundung & -erschliessung",
+      "anzahl": 20
+    },
+    {
+      "wert": "Patentierung & Verwertung",
+      "anzahl": 20
+    },
+    {
+      "wert": "Wasserwirtschaft & Küstenschutz",
+      "anzahl": 20
+    },
+    {
+      "wert": "Messen & Ausstellungen",
+      "anzahl": 19
+    },
+    {
+      "wert": "Nachwachsende Rohstoffe",
+      "anzahl": 17
+    },
+    {
+      "wert": "Auslandsmessen",
+      "anzahl": 14
+    },
+    {
+      "wert": "Luft & Raumfahrt",
+      "anzahl": 13
+    },
+    {
+      "wert": "Gleichstellung",
+      "anzahl": 12
+    },
+    {
+      "wert": "Inlandsmessen",
+      "anzahl": 12
+    },
+    {
+      "wert": "Nanotechnologie",
+      "anzahl": 12
+    },
+    {
+      "wert": "Schifffahrt & Meerestechnik",
+      "anzahl": 12
+    },
+    {
+      "wert": "Sicherheitsforschung",
+      "anzahl": 12
+    },
+    {
+      "wert": "Sonstige",
+      "anzahl": 11
+    },
+    {
+      "wert": "Außenwirtschaft",
+      "anzahl": 10
+    },
+    {
+      "wert": "Arbeitsgestaltung & Arbeitsschutz",
+      "anzahl": 9
+    },
+    {
+      "wert": "Entwicklungszusammenarbeit",
+      "anzahl": 9
+    },
+    {
+      "wert": "Bauen & Wohnen",
+      "anzahl": 8
+    },
+    {
+      "wert": "Mikrosysteme",
+      "anzahl": 8
+    },
+    {
+      "wert": "Optische Technologien",
+      "anzahl": 7
+    },
+    {
+      "wert": "Exportfinanzierung",
+      "anzahl": 6
+    },
+    {
+      "wert": "Grundlagenforschung",
+      "anzahl": 6
+    },
+    {
+      "wert": "Außerbetriebliche Arbeitsgelegenheiten",
+      "anzahl": 5
+    },
+    {
+      "wert": "Geowissenschaften",
+      "anzahl": 5
+    },
+    {
+      "wert": "Auslandsinvestitionen",
+      "anzahl": 4
+    },
+    {
+      "wert": "Außenwirtschaftsberatung",
+      "anzahl": 4
+    }
+  ]
+}

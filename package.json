@@ -1,0 +1,44 @@
+{
+  "name": "foerderdatenbank-mcp",
+  "version": "1.0.0",
+  "description": "MCP-Server für die Förderdatenbank des Bundes: KI-Assistenten wie Claude oder ChatGPT finden passende Förderprogramme, jedes Ergebnis mit Link zur Originalseite.",
+  "type": "module",
+  "license": "MIT",
+  "author": "New Life Digital UG (haftungsbeschränkt) (https://www.newlifedigital.de)",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "foerderdatenbank",
+    "foerdermittel",
+    "foerderprogramme",
+    "claude",
+    "chatgpt"
+  ],
+  "bin": {
+    "foerderdatenbank-mcp": "bin/stdio.mjs"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "daten",
+    "LICENSE",
+    "DATENLIZENZ.md",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test",
+    "import": "node werkzeug/import.mjs",
+    "start": "node bin/stdio.mjs",
+    "lokal": "node werkzeug/http-lokal.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "fast-xml-parser": "^5.12.0",
+    "fflate": "^0.8.3",
+    "minisearch": "^7.2.0",
+    "zod": "^4.6.7"
+  }
+}

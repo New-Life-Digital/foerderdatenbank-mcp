@@ -1,0 +1,13 @@
+{
+  "quelle": "Förderdatenbank des Bundes",
+  "herausgeber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+  "quelleUrl": "https://www.foerderdatenbank.de",
+  "lizenz": "CC BY 4.0",
+  "lizenzUrl": "https://creativecommons.org/licenses/by/4.0/deed.de",
+  "aenderungen": "Texte aus dem XML-Export in Klartext umgewandelt, nach Abschnitten gegliedert und in Suchergebnissen gekürzt. Inhalte sonst unverändert.",
+  "export": "https://www.foerderdatenbank.de/FDB/WS/export",
+  "datenstand": "2026-11-09",
+  "anzahlProgramme": 2492,
+  "anzahlRichtlinien": 2492,
+  "inhaltHash": "442aaabadf8b0275"
+}

@@ -1,0 +1,90 @@
+Richtlinie zur Förderung von Vormundschaftsvereinen
+
+Gl.Nr. 6662.66
+Bekanntmachung des Ministeriums für Soziales, Jugend, Familie, Senioren, Integration und Gleichstellung
+vom 6. Februar 2023 – VIII 311 ?
+[geändert durch Bekanntmachung des Ministeriums für Soziales, Jugend, Familie, Senioren, Integration und Gleichstellung
+vom 20. Mai 2023 – VIII 311 ?]
+
+## 1. Förderziel und Zuwendungszweck
+
+1.1 Das Land gewährt nach Maßgabe dieser Richtlinie und der Verwaltungsvorschriften zu § 44 Landeshaushaltsordnung Schleswig-Holstein (VV zu § 44 LHO) Zuwendungen zur Förderung der den Vormundschaftsvereinen nach § 54 SGB VIII übertragenen Aufgaben sowie von diesen durchgeführten Maßnahmen zur Verbesserung der Unterstützung von jungen Menschen im Sinne des SGB VIII auf ihrem Weg in die Selbstständigkeit.
+
+1.2 Ziel der Förderung ist die Erhöhung der Zahl von Vormundschaftsvereinen, die Aufrechterhaltung und Steigerung der Qualität der Arbeit der Vormundschaftsvereine sowie die Verbesserung der Unterstützung von jungen Menschen im Sinne des SGB VIII auf ihrem Weg in die Selbstständigkeit.
+
+1.3 Ein Rechtsanspruch auf Gewährung von Zuwendungen besteht nicht. Die Bewilligungsbehörde entscheidet nach pflichtgemäßem Ermessen im Rahmen der verfügbaren Haushaltsmittel.
+
+## 2. Gegenstand der Förderung
+
+Gefördert werden anteilige Personal- und Sachausgaben für die zielgerichtete Erfüllung der Aufgaben gemäß § 54 Absatz 1 und 2 SGB VIII, insbesondere
+
+- die planmäßige Bemühung um die Gewinnung ehrenamtlicher Vormünder,
+- die Einführung der ehrenamtlichen Vormünder in ihre Aufgaben,
+- die Fortbildung und Beratung von ehrenamtlichen Vormündern sowie
+- die Ermöglichung eines Erfahrungsaustauschs von ehrenamtlichen und hauptamtlichen Vormündern.
+
+## 3. Zuwendungsempfängerinnen bzw. Zuwendungsempfänger
+
+3.1 Antragsberechtigt sind Vormundschaftsvereine mit Erlaubnis nach § 54 SGB VIII mit Sitz in Schleswig-Holstein.
+
+3.2 Vereine, die eine Zuwendung erhalten, stimmen ihren Einzugsbereich untereinander und mit den örtlichen Trägern der öffentlichen Jugendhilfe ab.
+
+## 4. Zuwendungsvoraussetzungen
+
+4.1 Die Maßnahmen müssen in Schleswig-Holstein durchgeführt werden.
+
+4.2 Es werden nur Maßnahmen gefördert, die nicht von anderer Seite gefördert werden.
+
+4.3 Der Vormundschaftsverein gewährleistet eine Personalausstattung, die für eine fachlich qualifizierte Erfüllung der Aufgaben nach Ziffer 2 erforderlich ist. Zur personellen Ausstattung eines Vormundschaftsvereins gehört mindestens eine als Vollzeit- oder Teilzeitkraft angestellte Person und bei Bedarf weitere geeignete hauptberuflich angestellte Personen (Fachkräfte). Geeignet im Sinne dieser Vorschrift ist eine hauptamtliche Fachkraft in der Regel dann, wenn sie über eine staatlich anerkannte Ausbildung, insbesondere in den Bereichen Sozialarbeit, Sozialpädagogik, Psychologie oder Rechtswissenschaft verfügt. Die hauptamtliche Fachkraft soll neben den in Ziffer 2 genannten Aufgaben auch eigene Vormundschaften übernehmen.
+
+4.4 Der Verein hat seinen angestellten Personen eine angemessene Fort- und Weiterbildung zu ermöglichen. Er hat seine angestellten Personen gegen Schäden, die diese anderen im Rahmen ihrer Tätigkeit zufügen können, angemessen zu versichern.
+
+## 5. Art, Umfang und Höhe der Zuwendung
+
+5.1 Zuwendungsart
+
+Die Zuwendung wird im Wege der Projektförderung als Vollfinanzierung mit Höchstbetragsbegrenzung bewilligt. Sie wird als nicht rückzahlbarer Zuschuss gewährt.
+
+5.2 Bemessungsgrundlage
+
+Bemessungsgrundlage sind die nachweisbaren zuwendungsfähigen Personal- und Sachausgaben, die unter Zugrundelegung eines strengen Maßstabes für eine sparsame, wirtschaftliche und zweckmäßige Erlangung des Zuwendungszweckes unmittelbar entstehen. Alle mit dem Zuwendungszweck zusammenhängenden Einnahmen (z.B. Spenden, Teilnahmebeiträge) sind als Deckungsmittel einzusetzen.
+
+5.3 Höhe der Zuwendung
+
+Die Höhe des zu gewährenden Zuschusses beträgt pro gefördertem Verein höchstens 70.000 EUR im Jahr. Er richtet sich nach dem aus dem Projektplan ersichtlichen Personal- und Sachausgabenbedarf.
+
+## 6. Verfahren
+
+6.1 Antragstellung
+
+Zuwendungsanträge nach dem Muster der Anlage 1 sind schriftlich bis spätestens 31. Dezember des vorherigen Jahres beim Ministerium für Soziales, Jugend, Familie, Senioren, Integration und Gleichstellung einzureichen. Geht der Antrag später ein oder wird erstmals ein Antrag auf Förderung nach dieser Richtlinie gestellt, beginnt die Förderung frühestens ab dem Ersten des Monats, in dem der Antrag beim Ministerium eingeht. In Anwendung von Nummer 1.3 der VV zu § 44 LHO gilt bei rechtzeitiger Antragstellung die Einwilligung in den vorzeitigen Maßnahmenbeginn als erteilt. Der Antragsteller trägt das Risiko der Ablehnung bzw. der Nichtberücksichtigung aus anderen Gründen. Eine Entscheidung über die Bewilligung ist mit der Einwilligung in den vorzeitigen Maßnahmenbeginn noch nicht getroffen. Für jeden Monat, für den nach Satz 3 dieser Ziffer eine Förderung nicht in Betracht kommt, vermindert sich der Höchstbetrag der Förderung (Ziffer 5.3) um ein Zwölftel.
+
+Mit dem Antrag auf Förderung reicht der Verein eine Projektbeschreibung mit detaillierten Ausführungen dazu, wie der Vormundschaftsverein im Förderzeitraum seine Aufgaben nach Ziffer 2 der Richtlinie erfüllen will und welchen Anteil der Arbeitskraft (Jahresstunden) die geförderten Fachkräfte auf die jeweilige Aufgabe voraussichtlich verwenden werden.
+
+6.2 Bewilligung und Auszahlung
+
+Bei Vorliegen der Voraussetzungen wird der Zuschuss in Anwendung der Erleichterung nach Nummer 2 b) der Anlage 3 zu Nummer 7 der VV zu § 44 LHO in zwei gleichen Jahresraten gezahlt. Die Auszahlung soll im ersten Monat des jeweiligen Halbjahres erfolgen. Auszahlungen der zweiten Jahreshälfte können nur geleistet werden, wenn der Verwendungsnachweis des Vorjahres vollständig eingereicht wurde. Dies gilt nicht für das Jahr der erstmaligen Antragstellung.
+
+6.3 Nachweis der Verwendung
+
+Der Verwendungsnachweis der Zuwendung (Anlage 2) ist in Anwendung von Ziffer 6.1 der Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (ANBest-P) innerhalb von sechs Monaten nach Erfüllung des Zuwendungszwecks, spätestens jedoch bis zum 30. Juni des Folgejahres dem Ministerium vorzulegen. Zum Zwecke der Erfolgskontrolle haben die Vormundschaftsvereine bei Vorlage des Verwendungsnachweises darzustellen, inwieweit die mit dem Projektplan angestrebte Erfüllung der Aufgaben erreicht wurde. Hierbei ist auf die einzelnen unter Ziffer 2 aufgelisteten Aufgaben einzugehen.
+
+6.4 Zu beachtende Vorschriften
+
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gelten die VV zu § 44 LHO i.V.m. der entsprechenden Regelung des Landesverwaltungsgesetzes (§§ 116, 117, 117a LVwG), soweit nicht in dieser Richtlinie Abweichungen zugelassen worden sind.
+
+6.5 Sonstige Verfahrensregelungen
+
+In besonders begründeten Ausnahmefällen kann das Ministerium für Soziales, Jugend, Familie, Senioren, Integration und Gleichstellung im Einvernehmen mit dem Finanzministerium Ausnahmen von den nach dieser Richtlinie zu erfüllenden Voraussetzungen zulassen.
+
+## 7. Geltungsdauer
+
+Diese Richtlinie tritt rückwirkend zum 1. Januar 2023 in Kraft und gilt bis zum 31. Dezember 2027.
+
+## 8. Nachhaltigkeitscheck
+
+Das Ergebnis des Nachhaltigkeitschecks ist:
+
+Das Vorhaben hat positive Auswirkungen auf „Good Governance und gesellschaftliche Teilhabe“ und „Soziale Gerechtigkeit“.
+
+Das Vorhaben hat keine direkten oder indirekten Auswirkungen auf die Treibhausgasemissionen.
