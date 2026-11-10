@@ -2,7 +2,7 @@
   "foerderart": [
     {
       "wert": "Zuschuss",
-      "anzahl": 2045
+      "anzahl": 2044
     },
     {
       "wert": "Darlehen",
@@ -28,7 +28,7 @@
   "foerdergebiet": [
     {
       "wert": "bundesweit",
-      "anzahl": 704
+      "anzahl": 703
     },
     {
       "wert": "Sachsen",
@@ -106,7 +106,7 @@
     },
     {
       "wert": "Bund",
-      "anzahl": 657
+      "anzahl": 656
     },
     {
       "wert": "EU",
@@ -148,7 +148,7 @@
     },
     {
       "wert": "Existenzgründer/in",
-      "anzahl": 279
+      "anzahl": 278
     }
   ],
   "foerderbereich": [
@@ -182,7 +182,7 @@
     },
     {
       "wert": "Existenzgründung & -festigung",
-      "anzahl": 247
+      "anzahl": 246
     },
     {
       "wert": "Energieeffizienz & Erneuerbare Energien",
@@ -198,11 +198,11 @@
     },
     {
       "wert": "Forschung & Innovation (themenoffen)",
-      "anzahl": 200
+      "anzahl": 199
     },
     {
       "wert": "Digitalisierung",
-      "anzahl": 177
+      "anzahl": 176
     },
     {
       "wert": "Wohnungsbau & -modernisierung",
@@ -222,7 +222,7 @@
     },
     {
       "wert": "Beratung",
-      "anzahl": 117
+      "anzahl": 116
     },
     {
       "wert": "Städtebau & Stadterneuerung",
@@ -248,25 +248,25 @@
   "unternehmensgroesse": [
     {
       "wert": "Kleines Unternehmen",
-      "anzahl": 1404
+      "anzahl": 1403
     },
     {
       "wert": "Kleinstunternehmen",
-      "anzahl": 1384
+      "anzahl": 1383
     },
     {
       "wert": "Mittleres Unternehmen",
-      "anzahl": 1365
+      "anzahl": 1364
     },
     {
       "wert": "Großes Unternehmen",
-      "anzahl": 989
+      "anzahl": 988
     }
   ],
   "branchen": [
     {
       "wert": "Dienstleistungen",
-      "anzahl": 967
+      "anzahl": 966
     },
     {
       "wert": "Produzierendes Gewerbe",
@@ -274,7 +274,7 @@
     },
     {
       "wert": "Kultur- & Kreativwirtschaft",
-      "anzahl": 623
+      "anzahl": 622
     },
     {
       "wert": "Handwerk",
@@ -312,7 +312,7 @@
     },
     {
       "wert": "Gründungsinvestitionen",
-      "anzahl": 173
+      "anzahl": 172
     },
     {
       "wert": "Festigungsinvestitionen",
@@ -348,7 +348,7 @@
     },
     {
       "wert": "Beratung & Schulung",
-      "anzahl": 111
+      "anzahl": 110
     },
     {
       "wert": "Gesundheit & Soziales",
@@ -484,7 +484,7 @@
     },
     {
       "wert": "Gründung von Technologieunternehmen",
-      "anzahl": 47
+      "anzahl": 46
     },
     {
       "wert": "Besondere Formen der Landbewirtschaftung",
@@ -543,16 +543,16 @@
       "anzahl": 31
     },
     {
-      "wert": "Existenzgründung & -festigung",
-      "anzahl": 29
-    },
-    {
       "wert": "Fischwirtschaft",
       "anzahl": 29
     },
     {
       "wert": "Unternehmensführung",
       "anzahl": 29
+    },
+    {
+      "wert": "Existenzgründung & -festigung",
+      "anzahl": 28
     },
     {
       "wert": "Sanierung & Entwicklung",
