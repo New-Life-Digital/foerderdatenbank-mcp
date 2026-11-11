@@ -19,5 +19,5 @@ Lichtstellung:
 
 Nutzungsverzicht:
 
-- Eine Antragstellung für Auszahlung in 2026 ist bis zum 31.10.2026 möglich.
+- Eine Antragstellung für Auszahlung in 2026 war bis zum 31.10.2026 möglich.
 - Eine Antragstellung für Auszahlung in 2027 ist bis zum 31.10.2027 möglich.

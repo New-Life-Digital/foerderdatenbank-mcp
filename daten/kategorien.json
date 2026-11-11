@@ -2,7 +2,7 @@
   "foerderart": [
     {
       "wert": "Zuschuss",
-      "anzahl": 2044
+      "anzahl": 2045
     },
     {
       "wert": "Darlehen",
@@ -28,7 +28,7 @@
   "foerdergebiet": [
     {
       "wert": "bundesweit",
-      "anzahl": 703
+      "anzahl": 704
     },
     {
       "wert": "Sachsen",
@@ -106,7 +106,7 @@
     },
     {
       "wert": "Bund",
-      "anzahl": 656
+      "anzahl": 657
     },
     {
       "wert": "EU",
@@ -116,11 +116,11 @@
   "foerderberechtigte": [
     {
       "wert": "Unternehmen",
-      "anzahl": 1517
+      "anzahl": 1518
     },
     {
       "wert": "Verband/Vereinigung",
-      "anzahl": 1174
+      "anzahl": 1175
     },
     {
       "wert": "Öffentliche Einrichtung",
@@ -132,11 +132,11 @@
     },
     {
       "wert": "Forschungseinrichtung",
-      "anzahl": 502
+      "anzahl": 503
     },
     {
       "wert": "Hochschule",
-      "anzahl": 494
+      "anzahl": 495
     },
     {
       "wert": "Privatperson",
@@ -158,7 +158,7 @@
     },
     {
       "wert": "Gesundheit & Soziales",
-      "anzahl": 413
+      "anzahl": 414
     },
     {
       "wert": "Unternehmensfinanzierung",
@@ -166,7 +166,7 @@
     },
     {
       "wert": "Forschung & Innovation (themenspezifisch)",
-      "anzahl": 357
+      "anzahl": 358
     },
     {
       "wert": "Aus- & Weiterbildung",
@@ -174,7 +174,7 @@
     },
     {
       "wert": "Umwelt- & Naturschutz",
-      "anzahl": 300
+      "anzahl": 301
     },
     {
       "wert": "Landwirtschaft & Ländliche Entwicklung",
@@ -190,7 +190,7 @@
     },
     {
       "wert": "Mobilität",
-      "anzahl": 213
+      "anzahl": 214
     },
     {
       "wert": "Kultur, Medien & Sport",
@@ -432,7 +432,7 @@
     },
     {
       "wert": "Gesundheit & Medizin",
-      "anzahl": 61
+      "anzahl": 62
     },
     {
       "wert": "Bürgerschaftliches Engagement",
@@ -504,7 +504,7 @@
     },
     {
       "wert": "Mobilität & Verkehr",
-      "anzahl": 40
+      "anzahl": 41
     },
     {
       "wert": "Land-, Forst- & Fischwirtschaft",
