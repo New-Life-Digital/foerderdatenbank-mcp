@@ -2,7 +2,7 @@
   "foerderart": [
     {
       "wert": "Zuschuss",
-      "anzahl": 2045
+      "anzahl": 2046
     },
     {
       "wert": "Darlehen",
@@ -28,7 +28,7 @@
   "foerdergebiet": [
     {
       "wert": "bundesweit",
-      "anzahl": 704
+      "anzahl": 705
     },
     {
       "wert": "Sachsen",
@@ -106,7 +106,7 @@
     },
     {
       "wert": "Bund",
-      "anzahl": 657
+      "anzahl": 658
     },
     {
       "wert": "EU",
@@ -116,19 +116,19 @@
   "foerderberechtigte": [
     {
       "wert": "Unternehmen",
-      "anzahl": 1518
+      "anzahl": 1519
     },
     {
       "wert": "Verband/Vereinigung",
-      "anzahl": 1175
+      "anzahl": 1177
     },
     {
       "wert": "Öffentliche Einrichtung",
-      "anzahl": 895
+      "anzahl": 896
     },
     {
       "wert": "Kommune",
-      "anzahl": 826
+      "anzahl": 827
     },
     {
       "wert": "Forschungseinrichtung",
@@ -194,7 +194,7 @@
     },
     {
       "wert": "Kultur, Medien & Sport",
-      "anzahl": 206
+      "anzahl": 207
     },
     {
       "wert": "Forschung & Innovation (themenoffen)",
@@ -248,19 +248,19 @@
   "unternehmensgroesse": [
     {
       "wert": "Kleines Unternehmen",
-      "anzahl": 1403
+      "anzahl": 1404
     },
     {
       "wert": "Kleinstunternehmen",
-      "anzahl": 1383
+      "anzahl": 1384
     },
     {
       "wert": "Mittleres Unternehmen",
-      "anzahl": 1364
+      "anzahl": 1365
     },
     {
       "wert": "Großes Unternehmen",
-      "anzahl": 988
+      "anzahl": 989
     }
   ],
   "branchen": [
