@@ -2,7 +2,7 @@
   "foerderart": [
     {
       "wert": "Zuschuss",
-      "anzahl": 2046
+      "anzahl": 2047
     },
     {
       "wert": "Darlehen",
@@ -28,7 +28,7 @@
   "foerdergebiet": [
     {
       "wert": "bundesweit",
-      "anzahl": 705
+      "anzahl": 706
     },
     {
       "wert": "Sachsen",
@@ -106,7 +106,7 @@
     },
     {
       "wert": "Bund",
-      "anzahl": 658
+      "anzahl": 659
     },
     {
       "wert": "EU",
@@ -116,7 +116,7 @@
   "foerderberechtigte": [
     {
       "wert": "Unternehmen",
-      "anzahl": 1519
+      "anzahl": 1520
     },
     {
       "wert": "Verband/Vereinigung",
@@ -132,11 +132,11 @@
     },
     {
       "wert": "Forschungseinrichtung",
-      "anzahl": 503
+      "anzahl": 504
     },
     {
       "wert": "Hochschule",
-      "anzahl": 495
+      "anzahl": 496
     },
     {
       "wert": "Privatperson",
@@ -166,7 +166,7 @@
     },
     {
       "wert": "Forschung & Innovation (themenspezifisch)",
-      "anzahl": 358
+      "anzahl": 359
     },
     {
       "wert": "Aus- & Weiterbildung",
@@ -178,7 +178,7 @@
     },
     {
       "wert": "Landwirtschaft & Ländliche Entwicklung",
-      "anzahl": 269
+      "anzahl": 270
     },
     {
       "wert": "Existenzgründung & -festigung",
@@ -508,7 +508,7 @@
     },
     {
       "wert": "Land-, Forst- & Fischwirtschaft",
-      "anzahl": 38
+      "anzahl": 39
     },
     {
       "wert": "Weiterbildung Unternehmer & Selbststaendige",
