@@ -2,7 +2,7 @@
   "foerderart": [
     {
       "wert": "Zuschuss",
-      "anzahl": 2047
+      "anzahl": 2049
     },
     {
       "wert": "Darlehen",
@@ -22,13 +22,13 @@
     },
     {
       "wert": "Sonstige",
-      "anzahl": 14
+      "anzahl": 13
     }
   ],
   "foerdergebiet": [
     {
       "wert": "bundesweit",
-      "anzahl": 706
+      "anzahl": 707
     },
     {
       "wert": "Sachsen",
@@ -106,21 +106,21 @@
     },
     {
       "wert": "Bund",
-      "anzahl": 659
+      "anzahl": 660
     },
     {
       "wert": "EU",
-      "anzahl": 57
+      "anzahl": 56
     }
   ],
   "foerderberechtigte": [
     {
       "wert": "Unternehmen",
-      "anzahl": 1520
+      "anzahl": 1521
     },
     {
       "wert": "Verband/Vereinigung",
-      "anzahl": 1177
+      "anzahl": 1176
     },
     {
       "wert": "Öffentliche Einrichtung",
@@ -128,15 +128,15 @@
     },
     {
       "wert": "Kommune",
-      "anzahl": 827
+      "anzahl": 828
     },
     {
       "wert": "Forschungseinrichtung",
-      "anzahl": 504
+      "anzahl": 506
     },
     {
       "wert": "Hochschule",
-      "anzahl": 496
+      "anzahl": 498
     },
     {
       "wert": "Privatperson",
@@ -158,7 +158,7 @@
     },
     {
       "wert": "Gesundheit & Soziales",
-      "anzahl": 414
+      "anzahl": 415
     },
     {
       "wert": "Unternehmensfinanzierung",
@@ -166,7 +166,7 @@
     },
     {
       "wert": "Forschung & Innovation (themenspezifisch)",
-      "anzahl": 359
+      "anzahl": 361
     },
     {
       "wert": "Aus- & Weiterbildung",
@@ -202,7 +202,7 @@
     },
     {
       "wert": "Digitalisierung",
-      "anzahl": 176
+      "anzahl": 177
     },
     {
       "wert": "Wohnungsbau & -modernisierung",
@@ -248,25 +248,25 @@
   "unternehmensgroesse": [
     {
       "wert": "Kleines Unternehmen",
-      "anzahl": 1404
+      "anzahl": 1403
     },
     {
       "wert": "Kleinstunternehmen",
-      "anzahl": 1384
+      "anzahl": 1383
     },
     {
       "wert": "Mittleres Unternehmen",
-      "anzahl": 1365
+      "anzahl": 1364
     },
     {
       "wert": "Großes Unternehmen",
-      "anzahl": 989
+      "anzahl": 988
     }
   ],
   "branchen": [
     {
       "wert": "Dienstleistungen",
-      "anzahl": 966
+      "anzahl": 965
     },
     {
       "wert": "Produzierendes Gewerbe",
@@ -340,7 +340,7 @@
     },
     {
       "wert": "Information & Kommunikation",
-      "anzahl": 116
+      "anzahl": 117
     },
     {
       "wert": "Naturschutz & Landschaftspflege",
@@ -427,11 +427,11 @@
       "anzahl": 63
     },
     {
-      "wert": "Einzelbetriebliche Förderung",
-      "anzahl": 62
+      "wert": "Gesundheit & Medizin",
+      "anzahl": 63
     },
     {
-      "wert": "Gesundheit & Medizin",
+      "wert": "Einzelbetriebliche Förderung",
       "anzahl": 62
     },
     {

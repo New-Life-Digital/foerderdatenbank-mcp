@@ -18,6 +18,6 @@ Förderaufruf „Digitalisierung und Innovation zur Erhaltung resilienter marine
 vom: 14.09.2026
 Bundesministerium für Forschung, Technologie und Raumfahrt
 
-In der 1. Verfahrensstufe sind Ideenskizzen in englischer Sprache durch den Koordinator des europäischen Forschungsverbunds bis spätestens 16.11.2026 um 15:00 Uhr (MEZ) elektronisch über das EPSS-System--Electronic Proposal Submission System, deutsch: System zur Einreichung von Vorschlägen (siehe weiterführende Links) einzureichen. Die Vorlagefrist gilt als Ausschlussfrist.
+In der 1. Verfahrensstufe waren Ideenskizzen in englischer Sprache durch den Koordinator des europäischen Forschungsverbunds bis spätestens 16.11.2026 um 15:00 Uhr (MEZ) elektronisch über das EPSS-System--Electronic Proposal Submission System, deutsch: System zur Einreichung von Vorschlägen (siehe weiterführende Links) einzureichen. Die Vorlagefrist gilt als Ausschlussfrist.
 
 Weblink zum Förderaufruf

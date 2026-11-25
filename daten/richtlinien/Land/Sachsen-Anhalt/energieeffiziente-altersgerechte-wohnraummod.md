@@ -3,4 +3,4 @@
 Merkblatt „Sachsen-Anhalt MODERN“
 Investitionsbank Sachsen-Anhalt
 
-Weblink zum Merkblatt
+Weblink zum Merkblatt (PDF, nicht barrierefrei)
