@@ -2,7 +2,7 @@
   "foerderart": [
     {
       "wert": "Zuschuss",
-      "anzahl": 2049
+      "anzahl": 2052
     },
     {
       "wert": "Darlehen",
@@ -28,7 +28,7 @@
   "foerdergebiet": [
     {
       "wert": "bundesweit",
-      "anzahl": 707
+      "anzahl": 710
     },
     {
       "wert": "Sachsen",
@@ -106,7 +106,7 @@
     },
     {
       "wert": "Bund",
-      "anzahl": 660
+      "anzahl": 663
     },
     {
       "wert": "EU",
@@ -116,15 +116,15 @@
   "foerderberechtigte": [
     {
       "wert": "Unternehmen",
-      "anzahl": 1521
+      "anzahl": 1524
     },
     {
       "wert": "Verband/Vereinigung",
-      "anzahl": 1176
+      "anzahl": 1177
     },
     {
       "wert": "Öffentliche Einrichtung",
-      "anzahl": 896
+      "anzahl": 897
     },
     {
       "wert": "Kommune",
@@ -132,11 +132,11 @@
     },
     {
       "wert": "Forschungseinrichtung",
-      "anzahl": 506
+      "anzahl": 509
     },
     {
       "wert": "Hochschule",
-      "anzahl": 498
+      "anzahl": 501
     },
     {
       "wert": "Privatperson",
@@ -166,7 +166,7 @@
     },
     {
       "wert": "Forschung & Innovation (themenspezifisch)",
-      "anzahl": 361
+      "anzahl": 364
     },
     {
       "wert": "Aus- & Weiterbildung",
@@ -202,7 +202,7 @@
     },
     {
       "wert": "Digitalisierung",
-      "anzahl": 177
+      "anzahl": 178
     },
     {
       "wert": "Wohnungsbau & -modernisierung",
@@ -248,19 +248,19 @@
   "unternehmensgroesse": [
     {
       "wert": "Kleines Unternehmen",
-      "anzahl": 1403
+      "anzahl": 1406
     },
     {
       "wert": "Kleinstunternehmen",
-      "anzahl": 1383
+      "anzahl": 1386
     },
     {
       "wert": "Mittleres Unternehmen",
-      "anzahl": 1364
+      "anzahl": 1367
     },
     {
       "wert": "Großes Unternehmen",
-      "anzahl": 988
+      "anzahl": 991
     }
   ],
   "branchen": [
@@ -340,7 +340,7 @@
     },
     {
       "wert": "Information & Kommunikation",
-      "anzahl": 117
+      "anzahl": 118
     },
     {
       "wert": "Naturschutz & Landschaftspflege",
@@ -643,6 +643,10 @@
       "anzahl": 13
     },
     {
+      "wert": "Schifffahrt & Meerestechnik",
+      "anzahl": 13
+    },
+    {
       "wert": "Gleichstellung",
       "anzahl": 12
     },
@@ -652,10 +656,6 @@
     },
     {
       "wert": "Nanotechnologie",
-      "anzahl": 12
-    },
-    {
-      "wert": "Schifffahrt & Meerestechnik",
       "anzahl": 12
     },
     {
